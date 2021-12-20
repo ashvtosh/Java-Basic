@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ash2 {
     public static void main(String[] args) {
         System.out.println("taking input from the user");
@@ -18,6 +17,5 @@ public class ash2 {
             System.out.println("you have been fail");
         }
         System.out.println(percentage);
-
     }
 }
